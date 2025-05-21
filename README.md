@@ -1,4 +1,4 @@
-# MIT-BIH Arrhythmia ECG Data Analysis 🫀📊
+# MIT-BIH Arrhythmia ECG Data Analysis 
 
 This project presents an exploratory data analysis (EDA) of the MIT-BIH Arrhythmia ECG dataset. The analysis aims to better understand the nature of ECG signals, visualize their patterns in both time and frequency domains, and uncover meaningful relationships between signal leads.
 
